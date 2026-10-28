@@ -1,3 +1,3 @@
 # projet_synergie
 
-Test du bot
+Test du bot V1
